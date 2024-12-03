@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=txrunishere" alt="txrunishere" /></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=txrunishere&" alt="txrunishere" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=txrunishere" alt="txrunishere" /></a> </p>
+
 
 - 🔭 I’m currently working on **Quick Development**
 
